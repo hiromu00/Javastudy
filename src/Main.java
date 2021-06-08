@@ -1,9 +1,9 @@
 
 
-public class main {
+public class Main {
 
     public static void main(String[] args) {
-//メインクラスは他クラスのメソッドを呼び出すのみにすることが理想
-        fizzbuzz.FIZZBUZZ();
+
+        
     }
 }
